@@ -28,3 +28,10 @@ Se agregaron las habilidades del personaje expuesto.
 
 Se enlistaron las habilidades que el personaje puede realizar en el juego.
 
+--------------------------------------------------------------------------------
+
+Commit 4:
+
+Se editó el header de la página.
+
+Se cambió el header de la página, cambiando pequeños detalles.
